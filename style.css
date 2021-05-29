@@ -5,10 +5,11 @@ img{
    margin: 10px;
 }
 h2 {
-    background-color: #2adede;
+    background-color: #00ebebf1;
     color: blueviolet;
     font-size: 30px;
     text-align: center;
+    margin: 10px;
 }
 table {
     border-collapse: collapse;
